@@ -1,5 +1,5 @@
 #include <SPI.h>
-#include <LoRa.h>
+#include <LoRa.h>//la de sanDeepMistry
 #include <Wire.h>
 
 #define ss 15

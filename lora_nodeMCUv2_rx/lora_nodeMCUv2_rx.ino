@@ -1,5 +1,5 @@
 #include <SPI.h>
-#include <LoRa.h>
+#include <LoRa.h> //la de sanDeepMistry
 
 #define ss 15
 #define rst 16
