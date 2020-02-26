@@ -19,7 +19,7 @@ las conexión se describe gráficamente como se muestra a continuación.
 _______     _________          _______     _________
 N   GND|---|GND      |        |N   GND|---|GND      |
 o    D0|---|RST   S  |        |o    D0|---|RST   S  |
-d    D2|---|DIO0  X  |        |d    D2|---|DIO0  X  |
+d    D2|   |DIO0  X  |        |d    D2|---|DIO0  X  |
 e    D8|---|NSS   1  |        |e    D8|---|NSS   1  |
 M    D5|---|SCLK  2  |        |M    D5|---|SCLK  2  |
 C    D7|---|MOSI  7  |        |C    D7|---|MOSI  7  |
@@ -37,6 +37,7 @@ Se deben conectar las tierras del módulo para que este funcione.__
 * [Visual Studio Code](https://code.visualstudio.com/) - Para escribir el código
 
 ## Imagenes de la conexión.
+![Configuracion física del módulo transmisor](https://github.com/seba-arriagadac/Lora_com/blob/master/implementacion/TX_config.jpeg) ![Configuracion física del módulo receptor](https://github.com/seba-arriagadac/Lora_com/blob/master/implementacion/RX_config.jpeg)
 
 
 ## la librería usada está en
